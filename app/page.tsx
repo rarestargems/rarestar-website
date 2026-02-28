@@ -142,7 +142,7 @@ function Contact() {
 <p className="mt-6 text-neutral-300 text-sm">
   Email:{" "}
   <a
-    href="mailto:info@rarestargems.com"
+    href="mailto:rarestargems@gmail.com"
     className="underline hover:text-white"
   >
     rarestargems@gmail.com
