@@ -166,6 +166,10 @@ export default function RarestarWebsite() {
       <Expertise />
       <Quality />
       <Contact />
+		
+		<footer className="text-center text-sm text-neutral-500 py-8">
+        © {new Date().getFullYear()} RARESTAR Gems & Jewels LLP. All Rights Reserved.
+      </footer>
     </>
   );
 }
