@@ -64,7 +64,7 @@ function Hero() {
 
       <div className="relative text-center px-6">
         <p className="tracking-[0.3em] text-xs md:text-sm mb-4">RARESTAR GEMS & JEWELS LLP</p>
-        <h1 className="text-4xl md:text-6xl font-light tracking-wider mb-6">Crafted for Eternity</h1>
+        <h1 className="text-4xl md:text-6xl font-light tracking-wider mb-6">Forever Rare. Forever You.</h1>
         <p className="max-w-xl mx-auto text-neutral-200 mb-10 text-sm md:text-base">
           Precision‑crafted diamond jewellery for discerning clients and trusted trade partners worldwide.
         </p>
