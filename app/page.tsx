@@ -83,7 +83,7 @@ function About() {
      <div className="max-w-6xl mx-auto px-6">
       <h2 className="text-3xl font-light mb-6 text-neutral-900">About RARESTAR</h2>
       <p className="text-neutral-900 max-w-3xl text-sm md:text-base">
-        RARESTAR Gems & Jewels LLP is a diamond jewellery manufacturer specialising in certified diamonds, bespoke creations, and wholesale supply for all markets. Our work is defined by precision, discretion, and long‑term partnerships.
+        RARESTAR Gems & Jewels LLP is a Mumbai based diamond jewellery manufacturer specialising in certified diamonds, bespoke creations, and wholesale supply for all markets. Our work is defined by precision, discretion, and long‑term partnerships.
       </p>
     </div>
     </section>
@@ -101,7 +101,7 @@ function Expertise() {
       <div className="grid md:grid-cols-2 gap-10 text-sm md:text-base">
         <p>In‑house diamond jewellery manufacturing controls with strict quality control.</p>
         <p>Bespoke and private‑label jewellery developed with confidentiality.</p>
-        <p>Wholesale and bulk supply for retailers and trade partners.</p>
+        <p>Wholesale and bulk supply for retailers and trade partners across India.</p>
         <p>Design adaptability for EU, Middle East, and international markets.</p>
       </div>
     </section>
